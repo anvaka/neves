@@ -1,0 +1,21 @@
+{
+  "name": "neves",
+  "version": "0.0.1",
+  "description": "Experimental code runner",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "neves",
+    "is",
+    "not",
+    "seven"
+  ],
+  "author": "Andrei Kashcha",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anvaka/neves"
+  }
+}
